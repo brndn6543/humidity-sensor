@@ -3,7 +3,7 @@ Using an Arduino UNO to power a DHT11 Temperature and Humidity Sensor.
 
 **Watch on YouTube**
 
-[![Watch on YouTube](https://i.postimg.cc/9QjmcYpz/ultrasonic-sensor.jpg)](https://youtu.be/FZKNIyYRCzc)
+[![Watch on YouTube](https://i.postimg.cc/X7dc4FMJ/tnh-sensor.jpg)](https://youtu.be/WP-ZnrqNaMw)
 
 ## Code
 The code is polling every 4 seconds for a temp and humidity readin for a temp and humidity reading.
