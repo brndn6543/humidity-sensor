@@ -6,8 +6,7 @@ Using an Arduino UNO to power a DHT11 Temperature and Humidity Sensor.
 [![Watch on YouTube](https://i.postimg.cc/X7dc4FMJ/tnh-sensor.jpg)](https://youtu.be/WP-ZnrqNaMw)
 
 ## Code
-The code is polling every 4 seconds for a temp and humidity readin for a temp and humidity reading.
-It ensures a measurement is available and if one is, the temperature and humidity are reported.
+The code is polling every 4 seconds for a temperature and humidity reading. It ensures a measurement is available and if one is, the temperature and humidity are reported.
 ```c++
 static bool measure_environment(float *temperature, float *humidity) {
     static unsigned long measurement_timestamp = millis();
